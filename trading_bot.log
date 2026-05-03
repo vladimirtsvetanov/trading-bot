@@ -1,0 +1,1021 @@
+2026-05-04 01:29:29,702 - __main__ - INFO - Starting Trading Bot for BTC/USDT on 1m timeframe
+2026-05-04 01:29:30,120 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:29:30,381 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:29:40,714 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:29:41,022 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:29:51,290 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:29:51,550 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:30:01,821 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:30:02,081 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:30:12,459 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:30:12,720 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:30:23,006 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:30:23,276 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:30:33,546 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:30:33,860 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:30:44,126 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:30:44,389 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:30:54,655 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:30:54,913 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:31:05,179 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:31:05,440 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:31:15,710 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:31:15,974 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:31:26,287 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:31:26,554 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:31:36,823 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:31:37,088 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:31:47,360 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:31:47,623 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:31:57,893 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:31:58,155 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:32:08,477 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:32:08,743 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:32:19,128 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:32:19,397 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:32:29,776 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:32:30,046 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:32:40,318 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:32:40,577 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:32:50,870 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:32:51,134 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:33:01,399 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:33:01,665 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:33:11,930 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:33:12,192 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:33:22,456 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:33:22,719 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:33:32,991 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:33:33,258 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:33:43,573 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:33:43,835 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:33:54,152 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:33:54,413 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:34:04,677 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:34:04,936 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:34:15,199 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:34:15,461 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:34:25,724 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:34:25,984 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:34:36,341 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:34:36,604 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:34:47,431 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:34:47,956 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:34:58,245 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:34:58,513 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:35:08,859 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:35:09,122 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:35:19,393 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:35:19,758 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:35:30,101 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:35:30,367 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:35:40,635 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:35:40,901 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:35:51,167 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:35:51,432 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:36:01,697 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:36:01,957 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:36:12,229 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:36:12,490 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:36:22,757 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:36:23,019 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:36:33,288 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:36:33,548 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:36:43,815 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:36:44,074 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:36:54,371 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:36:54,630 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:37:04,921 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:37:05,187 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:37:15,571 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:37:15,832 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:37:26,094 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:37:26,355 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:37:36,624 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:37:36,888 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:37:47,157 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:37:47,422 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:37:57,691 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:37:57,952 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:38:08,215 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:38:08,478 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:38:18,864 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:38:19,130 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:38:29,405 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:38:29,666 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:38:39,940 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:38:40,202 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:38:50,471 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:38:50,735 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:39:01,004 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:39:01,268 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:39:11,616 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:39:11,879 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:39:22,163 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:39:22,425 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:39:32,690 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:39:32,953 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:39:43,215 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:39:43,566 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:39:53,836 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:39:54,096 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:40:04,455 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:40:04,715 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:40:15,002 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:40:15,260 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:40:25,535 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:40:25,800 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:40:36,063 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:40:36,330 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:40:46,643 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:40:46,900 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:40:57,215 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:40:57,480 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:41:07,839 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:41:08,099 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:41:18,490 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:41:18,750 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:41:29,009 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:41:29,273 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:41:39,544 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:41:39,806 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:41:50,067 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:41:50,331 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:42:00,678 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:42:00,942 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:42:11,221 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:42:11,486 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:42:21,752 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:42:22,110 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:42:32,382 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:42:32,642 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:42:42,904 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:42:43,170 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:42:53,516 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:42:53,779 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:43:04,050 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:43:04,316 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:43:14,610 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:43:14,872 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:43:25,144 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:43:25,407 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:43:35,677 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:43:35,939 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:43:46,208 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:43:46,472 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:43:56,736 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:43:56,999 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:44:07,345 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:44:07,611 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:44:17,880 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:44:18,138 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:44:28,406 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:44:28,747 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:44:39,019 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:44:39,283 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:44:49,637 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:44:49,897 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:45:00,168 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:45:00,432 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:45:10,705 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:45:10,969 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:45:21,232 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:45:21,493 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:45:31,825 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:45:32,088 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:45:42,475 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:45:42,739 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:45:53,005 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:45:53,269 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:46:03,539 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:46:03,876 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:46:14,140 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:46:14,406 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:46:24,765 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:46:25,023 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:46:35,292 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:46:35,555 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:46:45,819 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:46:46,082 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:46:56,348 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:46:56,610 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:47:06,879 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:47:07,136 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:47:17,400 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:47:17,660 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:47:27,931 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:47:28,194 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:47:38,457 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:47:38,714 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:47:48,978 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:47:49,241 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:47:59,510 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:47:59,773 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:48:10,042 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:48:10,306 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:48:20,575 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:48:20,844 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:48:31,228 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:48:31,496 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:48:41,767 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:48:42,026 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:48:52,288 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:48:52,552 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:49:02,816 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:49:03,083 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:49:07,757 - bot.exchange - INFO - Initialized Paper Trading mode on binance with balance 1000.0 USDT
+2026-05-04 01:49:07,757 - __main__ - INFO - Starting Trading Bot for BTC/USDT on 1m timeframe
+2026-05-04 01:49:09,949 - __main__ - INFO - Price: 79337.95 | RSI: 73.52 | Signal: SELL
+2026-05-04 01:49:13,348 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:49:13,613 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:49:23,889 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:49:24,165 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:49:34,440 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:49:34,700 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:49:44,963 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:49:45,223 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:49:55,489 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:49:55,750 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:50:06,014 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:50:06,271 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:50:10,694 - __main__ - INFO - Price: 79280.5 | RSI: 69.61 | Signal: HOLD
+2026-05-04 01:50:16,561 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:50:17,314 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:50:27,585 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:50:27,848 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:50:38,115 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:50:38,387 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:50:48,655 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:50:48,916 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:50:59,246 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:50:59,511 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:51:09,772 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:51:10,036 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:51:11,175 - __main__ - INFO - Price: 79290.24 | RSI: 70.14 | Signal: SELL
+2026-05-04 01:51:20,299 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:51:20,559 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:51:30,827 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:51:31,087 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:51:37,975 - bot.exchange - INFO - Initialized Paper Trading mode on binance with balance 1000.0 USDT
+2026-05-04 01:51:37,976 - __main__ - INFO - Starting Trading Bot for BTC/USDT on 1m timeframe
+2026-05-04 01:51:40,235 - __main__ - INFO - Price: 79249.45 | RSI: 63.97 | Signal: HOLD
+2026-05-04 01:51:41,356 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:51:41,620 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:51:51,892 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:51:52,153 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:52:02,414 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:52:02,678 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:52:11,518 - __main__ - INFO - Price: 79200.01 | RSI: 55.37 | Signal: HOLD
+2026-05-04 01:52:12,939 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:52:13,199 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:52:23,546 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:52:23,813 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:52:31,891 - bot.exchange - INFO - Initialized Paper Trading mode on binance with balance 10.0 USDT
+2026-05-04 01:52:31,891 - __main__ - INFO - Starting Trading Bot for ETH/USDT on 1m timeframe
+2026-05-04 01:52:33,877 - __main__ - INFO - Price: 2342.77 | RSI: 56.15 | Signal: HOLD
+2026-05-04 01:52:34,078 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:52:34,346 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:52:40,576 - __main__ - INFO - Price: 79190.0 | RSI: 54.25 | Signal: HOLD
+2026-05-04 01:52:44,666 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:52:44,928 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:52:55,192 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:52:55,458 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:53:05,721 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:53:05,981 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:53:11,899 - __main__ - INFO - Price: 79191.97 | RSI: 54.64 | Signal: HOLD
+2026-05-04 01:53:16,246 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:53:16,509 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:53:22,513 - bot.exchange - INFO - Initialized Paper Trading mode on binance with balance 100.0 USDT
+2026-05-04 01:53:22,513 - __main__ - INFO - Starting Trading Bot for ETH/USDT on 5s timeframe
+2026-05-04 01:53:24,557 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:53:26,854 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:53:27,118 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:53:34,199 - __main__ - INFO - Price: 2342.87 | RSI: 56.87 | Signal: HOLD
+2026-05-04 01:53:34,943 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:53:37,398 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:53:37,658 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:53:40,991 - __main__ - INFO - Price: 79206.63 | RSI: 56.02 | Signal: HOLD
+2026-05-04 01:53:45,285 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:53:47,925 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:53:48,193 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:53:56,140 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:53:58,495 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:53:58,755 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:54:06,482 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:54:09,026 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:54:09,293 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:54:12,328 - __main__ - INFO - Price: 79200.0 | RSI: 49.04 | Signal: HOLD
+2026-05-04 01:54:16,825 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:54:19,590 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:54:19,851 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:54:27,166 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:54:30,133 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:54:30,395 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:54:34,517 - __main__ - INFO - Price: 2342.28 | RSI: 50.87 | Signal: HOLD
+2026-05-04 01:54:37,509 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:54:40,662 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:54:40,921 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:54:41,408 - __main__ - INFO - Price: 79173.55 | RSI: 46.43 | Signal: HOLD
+2026-05-04 01:54:47,851 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:54:51,230 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:54:51,490 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:54:58,195 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:55:01,778 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:55:02,042 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:55:08,536 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:55:12,309 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:55:12,575 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:55:12,701 - __main__ - INFO - Price: 79179.73 | RSI: 47.14 | Signal: HOLD
+2026-05-04 01:55:18,878 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:55:22,841 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:55:23,103 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:55:29,222 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:55:32,508 - bot.exchange - INFO - Initialized Paper Trading mode on binance with balance 100.0 USDT
+2026-05-04 01:55:32,508 - __main__ - INFO - Starting Trading Bot for BTC/USDT on 5s timeframe
+2026-05-04 01:55:33,366 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:55:33,628 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:55:34,477 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:55:34,827 - __main__ - INFO - Price: 2342.63 | RSI: 49.34 | Signal: HOLD
+2026-05-04 01:55:39,562 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:55:41,824 - __main__ - INFO - Price: 79179.74 | RSI: 47.14 | Signal: HOLD
+2026-05-04 01:55:43,966 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:55:44,233 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:55:44,756 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:55:49,841 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:55:54,496 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:55:54,759 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:55:55,127 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:56:00,145 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:56:05,023 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:56:05,290 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:56:05,402 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:56:10,488 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:56:13,025 - __main__ - INFO - Price: 79171.95 | RSI: 32.34 | Signal: HOLD
+2026-05-04 01:56:15,566 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:56:15,674 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:56:15,826 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:56:20,830 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:56:25,952 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:56:26,085 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:56:26,343 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:56:31,172 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:56:35,173 - __main__ - INFO - Price: 2342.88 | RSI: 40.73 | Signal: HOLD
+2026-05-04 01:56:36,292 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:56:36,608 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:56:36,876 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:56:41,514 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:56:42,237 - __main__ - INFO - Price: 79181.99 | RSI: 34.02 | Signal: HOLD
+2026-05-04 01:56:46,562 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:56:47,140 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:56:47,401 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:56:51,857 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:56:56,834 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:56:57,666 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:56:57,932 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:57:02,200 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:57:07,217 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:57:08,240 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:57:08,499 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:57:12,542 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:57:13,369 - __main__ - INFO - Price: 79194.99 | RSI: 41.40 | Signal: HOLD
+2026-05-04 01:57:17,490 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:57:18,788 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:57:19,050 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:57:22,926 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:57:27,799 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:57:29,318 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:57:29,571 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:57:33,225 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:57:35,587 - __main__ - INFO - Price: 2344.15 | RSI: 47.44 | Signal: HOLD
+2026-05-04 01:57:38,140 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:57:39,837 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:57:40,100 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:57:42,605 - __main__ - INFO - Price: 79204.06 | RSI: 42.83 | Signal: HOLD
+2026-05-04 01:57:43,498 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:57:48,412 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:57:50,370 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:57:50,630 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:57:53,785 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:57:58,723 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:58:00,897 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:58:01,284 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:58:04,150 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:58:09,066 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:58:11,626 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:58:11,890 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:58:13,752 - __main__ - INFO - Price: 79192.47 | RSI: 39.22 | Signal: HOLD
+2026-05-04 01:58:14,493 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:58:19,408 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:58:22,161 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:58:22,582 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:58:24,769 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:58:29,693 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:58:32,851 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:58:33,112 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:58:35,075 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:58:36,006 - __main__ - INFO - Price: 2343.51 | RSI: 40.94 | Signal: HOLD
+2026-05-04 01:58:39,990 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:58:42,959 - __main__ - INFO - Price: 79182.96 | RSI: 38.09 | Signal: HOLD
+2026-05-04 01:58:43,378 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:58:43,646 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:58:45,417 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:58:50,333 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:58:53,914 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:58:54,175 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:58:55,759 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:59:00,675 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:59:04,448 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:59:04,711 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:59:06,103 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:59:11,016 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:59:14,078 - __main__ - INFO - Price: 79182.97 | RSI: 34.53 | Signal: HOLD
+2026-05-04 01:59:15,010 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:59:15,273 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:59:16,444 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:59:21,360 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:59:25,542 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:59:25,804 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:59:26,787 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:59:31,696 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:59:36,078 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:59:36,317 - __main__ - INFO - Price: 2343.89 | RSI: 41.07 | Signal: HOLD
+2026-05-04 01:59:36,335 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:59:37,128 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:59:42,043 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:59:43,383 - __main__ - INFO - Price: 79177.29 | RSI: 33.96 | Signal: HOLD
+2026-05-04 01:59:46,605 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:59:46,870 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:59:47,471 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:59:52,387 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 01:59:57,132 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:59:57,396 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 01:59:58,326 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:00:02,729 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:00:07,747 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:00:08,008 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:00:08,668 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:00:13,071 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:00:14,512 - __main__ - INFO - Price: 79161.24 | RSI: 18.73 | Signal: HOLD
+2026-05-04 02:00:18,277 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:00:18,536 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:00:19,009 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:00:23,424 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:00:28,810 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:00:29,074 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:00:29,288 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:00:33,755 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:00:36,733 - __main__ - INFO - Price: 2342.21 | RSI: 22.38 | Signal: HOLD
+2026-05-04 02:00:39,346 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:00:39,560 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:00:39,608 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:00:43,791 - __main__ - INFO - Price: 79151.3 | RSI: 18.12 | Signal: HOLD
+2026-05-04 02:00:44,098 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:00:49,839 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:00:49,870 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:00:50,129 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:00:54,440 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:01:00,111 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:01:00,396 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:01:00,659 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:01:04,782 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:01:10,414 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:01:11,030 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:01:11,297 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:01:14,842 - __main__ - INFO - Price: 79132.33 | RSI: 18.19 | Signal: HOLD
+2026-05-04 02:01:15,125 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:01:20,690 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:01:21,569 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:01:21,832 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:01:25,476 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:01:30,972 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:01:32,110 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:01:32,372 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:01:35,756 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:01:37,076 - __main__ - INFO - Price: 2341.89 | RSI: 25.43 | Signal: HOLD
+2026-05-04 02:01:41,357 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:01:42,689 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:01:42,952 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:01:44,200 - __main__ - INFO - Price: 79168.24 | RSI: 26.64 | Signal: HOLD
+2026-05-04 02:01:46,068 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:01:51,701 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:01:53,224 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:01:53,490 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:01:56,412 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:02:02,045 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:02:03,787 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:02:04,052 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:02:06,689 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:02:12,388 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:02:14,323 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:02:14,590 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:02:15,264 - __main__ - INFO - Price: 79195.0 | RSI: 30.08 | Signal: HOLD
+2026-05-04 02:02:16,965 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:02:22,752 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:02:24,855 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:02:25,122 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:02:27,239 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:02:33,023 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:02:35,428 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:02:35,688 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:02:37,412 - __main__ - INFO - Price: 2344.5 | RSI: 37.00 | Signal: HOLD
+2026-05-04 02:02:37,509 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:02:43,413 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:02:44,519 - __main__ - INFO - Price: 79223.44 | RSI: 35.21 | Signal: HOLD
+2026-05-04 02:02:45,976 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:02:46,240 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:02:47,780 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:02:53,757 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:02:53,961 - bot.exchange - INFO - Initialized Paper Trading mode on binance with balance 1000.0 USDT
+2026-05-04 02:02:53,961 - __main__ - INFO - Starting Trading Bot for SOL/USDT on 1m timeframe
+2026-05-04 02:02:55,915 - __main__ - INFO - Price: 84.71 | RSI: 38.89 | Signal: HOLD
+2026-05-04 02:02:56,510 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:02:56,771 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:02:58,050 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:03:04,104 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:03:07,038 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:03:07,300 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:03:08,401 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:03:14,443 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:03:15,589 - __main__ - INFO - Price: 79241.99 | RSI: 37.86 | Signal: HOLD
+2026-05-04 02:03:17,618 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:03:17,884 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:03:18,743 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:03:24,718 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:03:28,268 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:03:28,529 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:03:29,086 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:03:35,025 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:03:37,797 - __main__ - INFO - Price: 2346.28 | RSI: 41.48 | Signal: HOLD
+2026-05-04 02:03:38,810 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:03:39,070 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:03:39,428 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:03:44,860 - __main__ - INFO - Price: 79254.05 | RSI: 39.67 | Signal: HOLD
+2026-05-04 02:03:45,367 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:03:49,361 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:03:49,619 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:03:49,704 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:03:55,710 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:03:56,333 - __main__ - INFO - Price: 84.76 | RSI: 45.00 | Signal: HOLD
+2026-05-04 02:03:59,890 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:03:59,979 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:04:00,155 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:04:06,052 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:04:10,258 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:04:10,421 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:04:10,686 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:04:15,902 - __main__ - INFO - Price: 79258.83 | RSI: 44.40 | Signal: HOLD
+2026-05-04 02:04:16,395 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:04:20,529 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:04:20,949 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:04:21,213 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:04:26,737 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:04:30,832 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:04:31,478 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:04:31,738 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:04:37,079 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:04:38,117 - __main__ - INFO - Price: 2346.59 | RSI: 47.72 | Signal: HOLD
+2026-05-04 02:04:41,174 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:04:42,009 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:04:42,272 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:04:45,279 - __main__ - INFO - Price: 79260.66 | RSI: 44.58 | Signal: HOLD
+2026-05-04 02:04:47,421 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:04:51,517 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:04:52,644 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:04:52,911 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:04:56,657 - __main__ - INFO - Price: 84.76 | RSI: 47.50 | Signal: HOLD
+2026-05-04 02:04:57,763 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:05:01,860 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:05:03,293 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:05:03,559 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:05:08,106 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:05:12,202 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:05:13,826 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:05:14,092 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:05:16,306 - __main__ - INFO - Price: 79259.89 | RSI: 54.75 | Signal: HOLD
+2026-05-04 02:05:18,448 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:05:22,544 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:05:24,360 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:05:24,617 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:05:28,790 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:05:32,885 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:05:34,891 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:05:35,158 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:05:38,515 - __main__ - INFO - Price: 2346.9 | RSI: 59.99 | Signal: HOLD
+2026-05-04 02:05:39,132 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:05:43,227 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:05:45,419 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:05:45,597 - __main__ - INFO - Price: 79223.13 | RSI: 49.71 | Signal: HOLD
+2026-05-04 02:05:45,682 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:05:49,475 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:05:53,570 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:05:55,951 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:05:56,216 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:05:56,979 - __main__ - INFO - Price: 84.76 | RSI: 57.58 | Signal: HOLD
+2026-05-04 02:05:59,817 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:06:03,914 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:06:06,575 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:06:06,839 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:06:10,160 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:06:14,244 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:06:16,720 - __main__ - INFO - Price: 79260.7 | RSI: 59.08 | Signal: HOLD
+2026-05-04 02:06:17,108 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:06:17,430 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:06:20,503 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:06:24,597 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:06:27,695 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:06:27,952 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:06:30,844 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:06:34,870 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:06:38,227 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:06:38,492 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:06:38,820 - __main__ - INFO - Price: 2346.28 | RSI: 64.79 | Signal: HOLD
+2026-05-04 02:06:41,186 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:06:45,180 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:06:45,976 - __main__ - INFO - Price: 79244.64 | RSI: 57.18 | Signal: HOLD
+2026-05-04 02:06:48,762 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:06:49,033 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:06:51,529 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:06:55,522 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:06:57,374 - __main__ - INFO - Price: 84.73 | RSI: 59.38 | Signal: HOLD
+2026-05-04 02:06:59,300 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:06:59,565 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:07:01,805 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:07:05,865 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:07:09,858 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:07:10,120 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:07:12,111 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:07:16,207 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:07:17,064 - __main__ - INFO - Price: 79114.22 | RSI: 38.37 | Signal: HOLD
+2026-05-04 02:07:20,388 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:07:20,655 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:07:22,453 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:07:26,549 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:07:30,954 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:07:31,221 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:07:32,728 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:07:36,892 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:07:39,146 - __main__ - INFO - Price: 2343.22 | RSI: 49.56 | Signal: HOLD
+2026-05-04 02:07:41,491 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:07:41,757 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:07:43,035 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:07:46,321 - __main__ - INFO - Price: 79182.56 | RSI: 45.18 | Signal: HOLD
+2026-05-04 02:07:47,233 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:07:52,026 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:07:52,288 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:07:53,378 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:07:57,510 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:07:57,695 - __main__ - INFO - Price: 84.68 | RSI: 52.78 | Signal: HOLD
+2026-05-04 02:08:02,594 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:08:02,859 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:08:03,721 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:08:07,817 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:08:13,120 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:08:13,375 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:08:14,063 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:08:17,453 - __main__ - INFO - Price: 79160.61 | RSI: 47.58 | Signal: HOLD
+2026-05-04 02:08:18,158 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:08:23,645 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:08:23,909 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:08:24,404 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:08:28,501 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:08:34,176 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:08:34,444 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:08:34,676 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:08:38,843 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:08:39,472 - __main__ - INFO - Price: 2341.6 | RSI: 47.06 | Signal: HOLD
+2026-05-04 02:08:44,710 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:08:44,948 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:08:44,970 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:08:46,737 - __main__ - INFO - Price: 79157.16 | RSI: 47.13 | Signal: HOLD
+2026-05-04 02:08:49,185 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:08:55,224 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:08:55,230 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:08:55,486 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:08:58,047 - __main__ - INFO - Price: 84.66 | RSI: 54.29 | Signal: HOLD
+2026-05-04 02:08:59,459 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:09:05,503 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:09:05,756 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:09:06,024 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:09:09,767 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:09:15,783 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:09:16,290 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:09:16,554 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:09:17,815 - __main__ - INFO - Price: 79157.17 | RSI: 47.96 | Signal: HOLD
+2026-05-04 02:09:20,110 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:09:26,153 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:09:26,818 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:09:27,078 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:09:30,452 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:09:36,494 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:09:37,416 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:09:37,677 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:09:39,814 - __main__ - INFO - Price: 2340.94 | RSI: 44.62 | Signal: HOLD
+2026-05-04 02:09:40,794 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:09:46,779 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:09:47,153 - __main__ - INFO - Price: 79130.56 | RSI: 44.68 | Signal: HOLD
+2026-05-04 02:09:47,960 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:09:48,220 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:09:51,137 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:09:57,076 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:09:58,368 - __main__ - INFO - Price: 84.62 | RSI: 48.72 | Signal: HOLD
+2026-05-04 02:09:58,487 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:09:58,817 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:10:01,992 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:10:07,419 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:10:09,086 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:10:09,348 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:10:12,263 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:10:17,760 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:10:18,132 - __main__ - INFO - Price: 79120.26 | RSI: 42.07 | Signal: HOLD
+2026-05-04 02:10:19,619 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:10:19,880 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:10:22,573 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:10:28,104 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:10:30,149 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:10:30,416 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:10:32,916 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:10:38,445 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:10:40,194 - __main__ - INFO - Price: 2340.53 | RSI: 42.65 | Signal: HOLD
+2026-05-04 02:10:40,677 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:10:40,943 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:10:43,258 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:10:47,522 - __main__ - INFO - Price: 79112.98 | RSI: 41.30 | Signal: HOLD
+2026-05-04 02:10:48,787 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:10:51,206 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:10:51,467 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:10:53,532 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:10:58,686 - __main__ - INFO - Price: 84.6 | RSI: 43.59 | Signal: HOLD
+2026-05-04 02:10:59,057 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:11:01,731 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:11:01,992 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:11:03,840 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:11:09,370 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:11:12,266 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:11:12,535 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:11:14,112 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:11:18,492 - __main__ - INFO - Price: 79114.09 | RSI: 40.46 | Signal: HOLD
+2026-05-04 02:11:19,712 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:11:22,803 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:11:23,066 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:11:24,423 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:11:30,054 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:11:33,334 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:11:33,596 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:11:34,695 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:11:40,329 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:11:40,517 - __main__ - INFO - Price: 2338.89 | RSI: 34.21 | Signal: HOLD
+2026-05-04 02:11:43,853 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:11:44,113 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:11:44,975 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:11:47,880 - __main__ - INFO - Price: 79088.97 | RSI: 37.60 | Signal: HOLD
+2026-05-04 02:11:50,637 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:11:54,426 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:11:54,690 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:11:55,348 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:11:59,042 - __main__ - INFO - Price: 84.53 | RSI: 35.56 | Signal: HOLD
+2026-05-04 02:12:00,980 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:12:04,969 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:12:05,236 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:12:05,623 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:12:11,321 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:12:15,506 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:12:15,785 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:12:15,897 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:12:18,848 - __main__ - INFO - Price: 79094.35 | RSI: 39.62 | Signal: HOLD
+2026-05-04 02:12:21,663 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:12:26,057 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:12:26,169 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:12:26,318 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:12:31,934 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:12:36,453 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:12:36,582 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:12:36,845 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:12:41,028 - __main__ - INFO - Price: 2337.78 | RSI: 31.58 | Signal: HOLD
+2026-05-04 02:12:42,246 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:12:46,751 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:12:47,108 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:12:47,367 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:12:48,209 - __main__ - INFO - Price: 79090.0 | RSI: 38.99 | Signal: HOLD
+2026-05-04 02:12:52,584 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:12:57,094 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:12:57,631 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:12:57,893 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:12:59,457 - __main__ - INFO - Price: 84.53 | RSI: 30.95 | Signal: HOLD
+2026-05-04 02:13:02,931 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:13:07,436 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:13:08,164 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:13:08,430 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:13:13,273 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:13:17,779 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:13:18,692 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:13:18,957 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:13:19,217 - __main__ - INFO - Price: 79082.09 | RSI: 38.79 | Signal: HOLD
+2026-05-04 02:13:23,615 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:13:28,118 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:13:29,226 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:13:29,489 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:13:33,957 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:13:38,463 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:13:39,756 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:13:40,019 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:13:41,440 - __main__ - INFO - Price: 2336.69 | RSI: 30.41 | Signal: HOLD
+2026-05-04 02:13:44,300 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:13:48,573 - __main__ - INFO - Price: 79047.9 | RSI: 35.90 | Signal: HOLD
+2026-05-04 02:13:48,734 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:13:50,283 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:13:50,542 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:13:54,585 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:13:59,045 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:13:59,780 - __main__ - INFO - Price: 84.51 | RSI: 30.23 | Signal: HOLD
+2026-05-04 02:14:00,816 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:14:01,081 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:14:04,864 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:14:09,388 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:14:11,353 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:14:11,624 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:14:15,224 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:14:19,535 - __main__ - INFO - Price: 79067.46 | RSI: 41.69 | Signal: HOLD
+2026-05-04 02:14:19,658 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:14:21,889 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:14:22,151 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:14:25,566 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:14:29,971 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:14:32,469 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:14:32,726 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:14:35,909 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:14:40,312 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:14:41,855 - __main__ - INFO - Price: 2338.22 | RSI: 40.04 | Signal: HOLD
+2026-05-04 02:14:42,992 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:14:43,254 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:14:46,252 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:14:48,904 - __main__ - INFO - Price: 79074.99 | RSI: 42.78 | Signal: HOLD
+2026-05-04 02:14:50,654 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:14:53,524 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:14:53,788 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:14:56,593 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:15:00,186 - __main__ - INFO - Price: 84.54 | RSI: 38.10 | Signal: HOLD
+2026-05-04 02:15:00,996 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:15:04,065 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:15:04,325 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:15:06,936 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:15:11,275 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:15:14,616 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:15:14,879 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:15:17,209 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:15:19,950 - __main__ - INFO - Price: 79028.46 | RSI: 31.84 | Signal: HOLD
+2026-05-04 02:15:21,575 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:15:25,142 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:15:25,404 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:15:27,518 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:15:31,921 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:15:35,668 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:15:35,934 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:15:37,860 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:15:42,182 - __main__ - INFO - Price: 2336.67 | RSI: 32.45 | Signal: HOLD
+2026-05-04 02:15:42,193 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:15:46,194 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:15:46,452 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:15:48,202 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:15:49,235 - __main__ - INFO - Price: 79007.89 | RSI: 30.30 | Signal: HOLD
+2026-05-04 02:15:52,503 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:15:56,715 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:15:56,978 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:15:58,473 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:16:00,702 - __main__ - INFO - Price: 84.53 | RSI: 32.50 | Signal: HOLD
+2026-05-04 02:16:02,845 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:16:07,247 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:16:07,507 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:16:08,784 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:16:13,189 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:16:17,776 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:16:18,042 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:16:19,127 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:16:20,363 - __main__ - INFO - Price: 79019.02 | RSI: 24.34 | Signal: HOLD
+2026-05-04 02:16:23,531 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:16:28,304 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:16:28,562 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:16:29,470 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:16:33,872 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:16:38,825 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:16:39,198 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:16:39,812 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:16:42,585 - __main__ - INFO - Price: 2337.7 | RSI: 27.46 | Signal: HOLD
+2026-05-04 02:16:44,147 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:16:49,466 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:16:49,549 - __main__ - INFO - Price: 79050.47 | RSI: 30.00 | Signal: HOLD
+2026-05-04 02:16:49,729 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:16:50,084 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:16:54,452 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:17:00,088 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:17:00,347 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:17:00,355 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:17:01,117 - __main__ - INFO - Price: 84.49 | RSI: 22.50 | Signal: HOLD
+2026-05-04 02:17:04,730 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:17:10,613 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:17:10,625 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:17:10,875 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:17:15,010 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:17:20,688 - __main__ - INFO - Price: 79000.01 | RSI: 5.44 | Signal: HOLD
+2026-05-04 02:17:20,969 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:17:21,352 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:17:21,706 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:17:25,282 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:17:31,318 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:17:31,974 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:17:32,237 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:17:35,619 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:17:41,661 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:17:42,506 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:17:42,773 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:17:42,989 - __main__ - INFO - Price: 2337.45 | RSI: 17.06 | Signal: HOLD
+2026-05-04 02:17:45,961 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:17:49,963 - __main__ - INFO - Price: 79000.0 | RSI: 5.44 | Signal: HOLD
+2026-05-04 02:17:52,003 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:17:53,038 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:17:53,304 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:17:56,304 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:18:01,534 - __main__ - INFO - Price: 84.48 | RSI: 8.82 | Signal: HOLD
+2026-05-04 02:18:02,346 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:18:03,677 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:18:03,938 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:18:06,646 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:18:12,687 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:18:14,208 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:18:14,471 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:18:16,919 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:18:21,043 - __main__ - INFO - Price: 78997.96 | RSI: 5.89 | Signal: HOLD
+2026-05-04 02:18:23,011 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:18:24,768 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:18:25,031 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:18:27,202 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:18:33,288 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:18:35,295 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:18:35,560 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:18:37,571 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:18:43,346 - __main__ - INFO - Price: 2336.03 | RSI: 10.15 | Signal: HOLD
+2026-05-04 02:18:43,613 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:18:45,824 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:18:46,084 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:18:47,913 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:18:50,289 - __main__ - INFO - Price: 78999.99 | RSI: 5.93 | Signal: HOLD
+2026-05-04 02:18:53,955 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:18:56,345 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:18:56,608 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:18:58,254 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:19:01,950 - __main__ - INFO - Price: 84.49 | RSI: 11.43 | Signal: HOLD
+2026-05-04 02:19:04,297 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:19:06,878 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:19:07,142 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:19:08,598 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:19:14,639 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:19:17,412 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:19:17,675 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:19:18,940 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:19:21,406 - __main__ - INFO - Price: 78999.99 | RSI: 6.27 | Signal: HOLD
+2026-05-04 02:19:24,981 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:19:27,933 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:19:28,194 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:19:29,282 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:19:35,324 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:19:38,498 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:19:38,758 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:19:39,625 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:19:43,703 - __main__ - INFO - Price: 2336.55 | RSI: 14.49 | Signal: HOLD
+2026-05-04 02:19:45,666 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:19:49,028 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:19:49,293 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:19:49,899 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:19:50,692 - __main__ - INFO - Price: 78988.39 | RSI: 6.02 | Signal: HOLD
+2026-05-04 02:19:55,941 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:19:59,561 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:19:59,823 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:20:00,207 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:20:02,468 - __main__ - INFO - Price: 84.46 | RSI: 11.76 | Signal: HOLD
+2026-05-04 02:20:06,213 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:20:10,095 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:20:10,358 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:20:10,480 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:20:16,591 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:20:20,622 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:20:20,756 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:20:20,882 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:20:21,818 - __main__ - INFO - Price: 78988.39 | RSI: 6.90 | Signal: HOLD
+2026-05-04 02:20:26,933 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:20:31,035 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:20:31,143 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:20:31,404 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:20:37,276 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:20:41,372 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:20:41,669 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:20:41,931 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:20:44,021 - __main__ - INFO - Price: 2335.01 | RSI: 16.38 | Signal: HOLD
+2026-05-04 02:20:47,618 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:20:51,107 - __main__ - INFO - Price: 78943.39 | RSI: 5.86 | Signal: HOLD
+2026-05-04 02:20:51,715 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:20:52,198 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:20:52,457 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:20:57,960 - bot.exchange - ERROR - Error fetching OHLCV for ETH/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:21:02,056 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-1120,"msg":"Invalid interval."}
+2026-05-04 02:21:02,725 - bot.exchange - ERROR - Error fetching balance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-05-04 02:21:02,848 - __main__ - INFO - Price: 84.42 | RSI: 11.76 | Signal: HOLD
+2026-05-04 02:21:02,987 - bot.exchange - ERROR - Error fetching OHLCV for BTC/USDT: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
